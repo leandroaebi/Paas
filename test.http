@@ -1,5 +1,8 @@
-@url = paastest01la.azurewebsites.net
+#@url = paastest01la.azurewebsites.net
 #@url = http://20.203.171.101
+
+@url = localhost:5000
+
 
 ### Get all students
 
